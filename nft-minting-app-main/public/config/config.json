@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7163aB0108124B224D592ED98ECA33F98D628Ae3",
+  "SCAN_LINK": "https://coston-explorer.flare.network/address/0x7163aB0108124B224D592ED98ECA33F98D628Ae3",
+  "NETWORK": {
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 137
+  },
+  "NFT_NAME": "LACKY TITLE",
+  "SYMBOL": "LLKK",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Sparkles",
+  "MARKETPLACE_LINK": "https://www.sparklesnft.com/?search=Lucky%20Koi",
+  "SHOW_BACKGROUND": true
+}
